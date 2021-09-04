@@ -12,18 +12,20 @@ Treasure Hunt is a second-hand market website for users to buy and sell used goo
 
 #### 2.1 Motivation
 
-In order to help X city’s students to more reliably buy and sell used goods, we developed an website so that users can:
+In order to help X city’s students effectively buy and sell used goods online and reduce fraud risk, we developed an website so that users can:
 
 * **Browse**
-    - Search listings by keyword, category, distance, date, price, condition
-    - Browse nearby listings for sale on a map
+    - Browse listings in different categories such as cars, furniture, electronics, books, apparels, etc.
+    - Browse nearby listings on a map
 * **Save**
-    - Save/unsave listings  
+    - Save/unsave listings 
+* **Search**
+    - Search listings by keyword, category, distance, date, price, condition, etc.
 * **Buy** 
     - Communicate with the seller via validated student email 
 * **Sell**
     - Specify the details of the item for sale, and upload up to 10 pictures in any format
-    - Manage all their listings, edit and delete listings 
+    - Manage their listings, including edit and delete
 
 #### 2.2 Critical user journey
 
@@ -132,6 +134,6 @@ Please develop the website follow the style guide and prototype provided.
 
 ---
 
-Written by *Ruichen Zhang*
+*Ruichen Zhang*
 
 Sep 4, 2021
